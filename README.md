@@ -1,2 +1,13 @@
-# blog-universidad
-Proyecto de blog personal
+Blog Universidad
+
+[Descripción del Proyecto]
+
+[Instalación]
+-Requisitos
+-Versión
+-Encargados del Proyecto
+
+[Uso]
+
+[Documentación]
+
